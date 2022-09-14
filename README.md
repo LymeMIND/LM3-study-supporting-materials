@@ -19,4 +19,4 @@ This is Jupyter Notebook can be used to generate all of the figures in the paper
 
 ### [Data](./data)
 
-This is de-identified data which can be used to re-produce most of the analysis presented in the paper, and/or used for additional analysis.
+This is a link to the de-identified data. It can be used to re-produce most of the analysis presented in the paper, and/or used for additional analysis.
