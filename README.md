@@ -15,13 +15,8 @@ This repository contains all the source code and de-identified data for the proj
 
 ### [LM3_all_figures.ipynb](./LM3_all_figures.ipynb)
 
-This is a jupyter notebook which was used to generate all of the LM3 figures. It was run with the **original data** which is not publicly available, please contact us if you'd like to access to that data. Alternatively de-identified version of that same data has been provided and can be used instead to an extent.
+This is Jupyter Notebook can be used to generate all of the figures in the paper. It was executed with the **original data** which is available from dbGAP (accession codes phs002795.v1.p1 and phs002797.v1.p1). The de-identified version of the same data is provided and can be used to an extent.
 
 ### [Data](./data)
 
-This is de-identified data which can be used to re-produce our analysis or find additional things about our cohort as a whole without per-patient specificity.
-
-### See Also
-The preceding study where we looked specifically at the LM2 cohort only.
-
-<https://github.com/LymeMIND/LM2-study-supporting-materials>
+This is de-identified data which can be used to re-produce most of the analysis presented in the paper, and/or used for additional analysis.
