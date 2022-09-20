@@ -15,7 +15,7 @@ This repository contains all the source code and de-identified data for the proj
 
 ### [LM3_all_figures.ipynb](./LM3_all_figures.ipynb)
 
-This is Jupyter Notebook can be used to generate all of the figures in the paper. It was executed with the **original data** which is available from dbGAP (accession codes phs002795.v1.p1 and phs002797.v1.p1). The de-identified version of the same data is provided and can be used to an extent.
+This Jupyter Notebook can be used to generate all the figures in the paper. It was executed with the **original data** which is available from dbGAP (accession codes phs002795.v1.p1 and phs002797.v1.p1). The de-identified version of the same data is provided and can be used to some extent.
 
 ### [Data](./data)
 
